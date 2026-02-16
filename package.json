@@ -1,0 +1,16 @@
+{
+  "name": "builders-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript challenges for MERN Stack Bootcamp",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:beginner": "vitest run js-01/beginner",
+    "test:intermediate": "vitest run js-01/intermediate",
+    "test:advanced": "vitest run js-01/advanced"
+  },
+  "devDependencies": {
+    "vitest": "^1.2.0"
+  }
+}

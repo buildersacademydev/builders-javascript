@@ -8,7 +8,15 @@
     "test:watch": "vitest",
     "test:beginner": "vitest run js-01/beginner",
     "test:intermediate": "vitest run js-01/intermediate",
-    "test:advanced": "vitest run js-01/advanced"
+    "test:advanced": "vitest run js-01/advanced",
+    "test:js-02": "vitest run js-02",
+    "test:js-02:beginner": "vitest run js-02/beginner",
+    "test:js-02:intermediate": "vitest run js-02/intermediate",
+    "test:js-02:advanced": "vitest run js-02/advanced",
+    "test:js-03": "vitest run js-03",
+    "test:js-03:beginner": "vitest run js-03/beginner",
+    "test:js-03:intermediate": "vitest run js-03/intermediate",
+    "test:js-03:advanced": "vitest run js-03/advanced"
   },
   "devDependencies": {
     "vitest": "^1.2.0"
